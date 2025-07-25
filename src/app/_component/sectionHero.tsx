@@ -58,7 +58,7 @@ export function SectionHero() {
       {/* Botões */}
       <div className="flex flex-wrap justify-center gap-6 mb-20">
         <a
-          href="/public/docs/JoaoFreitas.pdf"
+          href="https://drive.google.com/file/d/1Kb2x4HnV4KLuci9-nLD04gTAaNRlPCXb/view?usp=sharing"
           download
           className="border border-white text-white px-6 py-3 rounded-full font-semibold shadow-md hover:bg-white hover:text-black transition-colors duration-300 text-lg"
         >
