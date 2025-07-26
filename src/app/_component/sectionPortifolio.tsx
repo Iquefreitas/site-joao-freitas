@@ -17,7 +17,7 @@ export function SectionPortifolio() {
     {
       title: "Site Idem Idiomas",
       src: "/portifolio/siteIdem.jpg",
-      github: "https://github.com/Iquefreitas/projeto-2",
+      github: "https://idemidiomas.vercel.app/",
     },    
   ];
 
