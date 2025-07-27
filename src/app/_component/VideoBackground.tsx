@@ -15,6 +15,7 @@ export default function VideoBackground() {
         preload="auto"
         className="fixed top-0 left-0 w-full h-full object-cover z-[-2]"
       >
+        <source src="/videos/mundo.webm" type="video/webm" />
         <source src="/videos/mundo.mp4" type="video/mp4" />
         Seu navegador não suporta vídeo em HTML5.
       </video>
