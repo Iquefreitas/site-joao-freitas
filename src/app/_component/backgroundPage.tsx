@@ -3,9 +3,14 @@ export default function BackgroundPage() {
     <>
       {/* Fundo para mobile */}
       <div
-        className="fixed top-0 left-0 w-full h-full bg-center bg-cover bg-no-repeat md:hidden -z-50"
-        style={{ backgroundImage: "url('/backgroundImg/bg-4-small.jpg')" }}
-      />
+  className="fixed top-0 left-0 w-full h-full bg-no-repeat md:hidden -z-50"
+  style={{
+    backgroundImage: "url('/backgroundImg/bg-4-small.jpg')",
+    backgroundSize: "cover",
+    backgroundPosition: "center top", // centraliza horizontalmente e mostra mais topo
+  }}
+/>
+
 
       {/* Fundo para desktop */}
       <div
