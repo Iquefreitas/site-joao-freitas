@@ -29,7 +29,7 @@ const icons = [
 export function SectionHero() {
   return (
     <section id="inicio" className="w-full min-h-screen flex flex-col justify-center items-center px-6 bg-black/30 rounded-md shadow-md pt-40">
-      <h1 className="text-1xl md:text-3xl font-extrabold text-white mb-6 text-center">
+      <h1 className="text-1xl md:text-2xl font-extrabold text-white mb-6 text-center">
         Front-end developer
         <span className="block text-6xl md:text-7xl text-gradient-animated mt-6">
           João Freitas
