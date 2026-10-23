@@ -31,7 +31,7 @@ export function SectioSobre() {
           Durante 8 anos na ACIF, evoluí de suporte técnico a membro de SQUAD focado em automação de processos. Sou autodidata, proativo e apaixonado por tecnologia, sempre em busca de evolução contínua.
         </p>
         <a
-          href="https://drive.google.com/file/d/1Kb2x4HnV4KLuci9-nLD04gTAaNRlPCXb/view"
+          href="https://drive.google.com/file/d/1Xmxpw2FrFQvZuwp5OjWoHWHCK0N-6VhE/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-gray-400 hover:bg-gray-500 text-black px-6 py-3 rounded-md font-semibold transition
